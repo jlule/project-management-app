@@ -11,3 +11,4 @@
 * Should incorporate animation
 * Code should show a good level of organization (ESmodules, classes, etc)
 * Code should be error free (according to team ESLint rules)
+https://youtu.be/75XRg_LZKVQ
