@@ -12,4 +12,4 @@
 * Code should show a good level of organization (ESmodules, classes, etc)
 * Code should be error free (according to team ESLint rules)
 ## video to the 3 minutes presentation
-https://youtu.be/75XRg_LZKVQ
+
